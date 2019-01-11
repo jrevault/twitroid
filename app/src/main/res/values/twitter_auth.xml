@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="consumer_api_key">REPLACE_ME</string>
+    <string name="consumer_api_key_secret">REPLACE_ME</string>
+    <string name="access_token">REPLACE_ME</string>
+    <string name="access_token_secret">REPLACE_ME</string>
+</resources>
